@@ -37,7 +37,8 @@ Ziele des Projekts:
 
 ## Projektstruktur
 
-PYTHON QUIZ/
+```text
+python-quiz/
 ├── build/
 │ └── PythonQuiz/ # Build-Artefakte von PyInstaller (Zwischendateien)
 ├── dist/
@@ -53,7 +54,7 @@ PYTHON QUIZ/
 ├── README.md # diese Datei
 └── requirements.txt # Python-Abhängigkeiten (z.B. flet)
 
-
+```
 
 
 ## 1. Nutzung als Konsolen-Quiz (Python)
@@ -161,3 +162,4 @@ Es zeigt, wie ich an Probleme herangehe:
 - dann **saubere Struktur** (Core, Daten, UI),
 
 - dann **Benutzerfreundlichkeit** (GUI und EXE für einfache Tests).
+
