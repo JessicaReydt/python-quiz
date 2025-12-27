@@ -99,6 +99,8 @@ Im Projektordner:
 ## 3. Nutzung als fertige Windows-App (EXE)
 
 Für Tester ohne Python-Installation gibt es eine fertige **EXE-Datei**, die mit PyInstaller aus der Flet-Version gebaut wurde.
+[👉 PythonQuiz.exe herunterladen](https://github.com/JessicaReydt/python-quiz/releases/latest)
+
 
 ### 3.1. Aufbau der EXE
 
@@ -157,4 +159,5 @@ Dieses Quiz ist eines meiner ersten eigenständigen Python-Projekte, bei dem ich
 Es zeigt, wie ich an Probleme herangehe:
 - erst **fachliches Ziel** (Lernen & Wiederholen),
 - dann **saubere Struktur** (Core, Daten, UI),
+
 - dann **Benutzerfreundlichkeit** (GUI und EXE für einfache Tests).
