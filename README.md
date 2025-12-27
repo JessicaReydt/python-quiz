@@ -102,6 +102,8 @@ Im Projektordner:
 Für Tester ohne Python-Installation gibt es eine fertige **EXE-Datei**, die mit PyInstaller aus der Flet-Version gebaut wurde.
 [👉 PythonQuiz.exe herunterladen](https://github.com/JessicaReydt/python-quiz/releases/latest)
 
+Hinweis: Da es sich um eine selbst erstellte EXE ohne Code-Signing-Zertifikat handelt, zeigt Windows SmartScreen beim ersten Start eventuell eine Warnung an. Über „Weitere Informationen“ → „Trotzdem ausführen“ kann die App gestartet werden.
+
 
 ### 3.1. Aufbau der EXE
 
@@ -162,4 +164,5 @@ Es zeigt, wie ich an Probleme herangehe:
 - dann **saubere Struktur** (Core, Daten, UI),
 
 - dann **Benutzerfreundlichkeit** (GUI und EXE für einfache Tests).
+
 
